@@ -8,6 +8,7 @@ public class Test {
 
     /**
      * @param args the command line arguments
+     * new comment
      */
     public static void main(String[] args) {
     }
